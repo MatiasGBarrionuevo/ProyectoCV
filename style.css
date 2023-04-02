@@ -1,0 +1,143 @@
+@import url(https://weloveiconfonts.com/api/?family=entypo|fontawesome);
+
+
+h1,h2,h3, h4 {
+	font-family: 'Lato', Helvetica, sans-serif;
+	font-weight: 300;
+	color: rgb(28, 87, 112);
+    margin-top:21px;
+}
+	h1 {
+		font-size: 48px;
+		font-weight: 300;
+		margin: 20px 0;
+	}
+	h2 {
+		font-size: 28px;
+		margin: 32px 0 12px;
+        margin-top: 25px;
+        padding: 18px;
+    }
+
+h5{
+    margin-top: 18px;
+}
+a{
+    font-size: 48px;
+	font-weight: 300;
+	margin: 20px 0;
+}
+
+ul {
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+	li { 
+		padding-left: 1em; 
+		text-indent: -.7em;
+	}
+	li:before {
+		content: "• ";
+		color: #837c9a;
+		font-size: 20px;
+		padding-right: 8px;
+	}
+
+footer{
+    background-color: rgb(28, 87, 112);
+    color: white;
+}
+
+
+footer .container .get_social_content{
+        padding-top: 45px;
+        font-size: 1rem;
+        letter-spacing: 2px;
+        text-align: center;
+        color: white;
+}
+
+
+#imagen{
+    width: 200px;
+    vertical-align: middle;
+}
+
+body{
+    padding-top: 45px;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    text-align: center;
+    
+}
+
+.medio{
+    background-color: rgb(52, 137, 174);
+}
+
+
+.correo, .telefono{
+    text-align: center;
+    color:rgb(28, 87, 112);
+    font-size: 1.3rem;
+    text-decoration: none;
+    margin-left: 1%;
+    padding:3px;
+}
+
+img{
+    
+    vertical-align: middle;
+    width: 30px;
+}
+
+.tabla{
+    margin: 2px;
+    border: 1px solid rgb(216, 216, 216);
+    border-radius: 2px;
+    padding: 15px;
+    width: 100%;
+    height: 420px;
+}
+
+.furmulario{
+    margin-top: 2%;
+}
+
+.conta{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+.tabla{
+    margin-top: 6%;
+    margin-bottom: 6%;
+}
+
+.medio, .sobremi{
+    margin-top: 6%;
+}
+
+.misredes{
+    margin-top: 1%;
+    margin-bottom: 2%;
+    justify-content: center;
+}
+
+.reloj{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin-bottom: 5%;
+    text-align: center;
+    border-radius: 25px;
+    border: solid 2px rgb(28, 87, 112);
+    max-width: 700px;
+    padding: 15px;
+    font-weight: bolder;
+    font-family: 'Lato', Helvetica, sans-serif;
+    font-size: 18px;
+	color: rgb(28, 87, 112);
+    margin-top:21px;
+}
